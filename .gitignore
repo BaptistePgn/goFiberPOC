@@ -1,0 +1,60 @@
+# IntelliJ IDEA-specific folders and files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Go-generated folders
+/bin/
+/pkg/
+/vendor/
+
+# Backup files
+*~
+*.bak
+
+# Log files
+*.log
+
+# System configuration files
+.DS_Store
+Thumbs.db
+
+# Cache files
+.cache/
+.caches/
+
+# Go dependency files (if using Go Modules, adjust accordingly)
+/go.sum
+/go.mod
+
+# Build files
+/build/
+/out/
+
+# Generated documentation files
+/doc/
+/docs/
+
+# Generated test files
+/test/
+
+# Fiber-specific configuration files (adjust as needed)
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# IDE-specific configuration files (adjust as needed)
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+*.tmproj
+*.esproj
+*.idea/
+*.iml
+*.iws
+*.ipr
