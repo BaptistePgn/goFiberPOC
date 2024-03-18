@@ -1,3 +1,3 @@
 package handlers
 
-//TODO routes for the user resource
+//TODO handler for /api/todo
